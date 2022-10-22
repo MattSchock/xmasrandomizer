@@ -13,19 +13,14 @@ while (arr1.length) {
 
     if (name1 == name2) {
         console.log('its fucked you dingus')
-        return
     } else if (name1 == 'Andy' && name2 == 'Melissa') {
         console.log('buy your spouse your own present you cheap bastard')
-        return
     } else if (name1 == "Maryl" && name2 == 'Ryan') {
         console.log('Spouse detected')
-        return
     } else if (name1 == 'Jolie' && name2 == 'Seth') {
         console.log('Buy Seth a real present!')
-        return
     } else if (name1 == 'Matt' && name2 == 'Jaque') {
         console.log('Matt % jac error')
-        return
     } else {
         console.log(name1 + ' gets ' + name2);
     }
